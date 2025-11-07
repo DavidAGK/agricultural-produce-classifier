@@ -124,7 +124,7 @@ python src/train.py --produce_type mango --epochs 1000 --batch_size 40
 
 ## Contributors
 
-- Ejike David Chinedu - [GitHub Profile](https://github.com/yourusername)
+- Ejike David Chinedu - [GitHub Profile]([https://github.com/DavidAGK])
 
 ## License
 
